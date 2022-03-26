@@ -1,6 +1,6 @@
 # CodeLife_Algorithm
 
-    Java 算法题记录 —— 记录个人写算法题集
+    Java 算法题记录 —— 记录个人算法题集
 
 ***
 
