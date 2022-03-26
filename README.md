@@ -10,7 +10,7 @@
 ***
 
 > <details>
->   <summary>1. PAT基础级题目（PAT_Basic Level_Practice）</summary>
+>   <summary>1. 基础级题目（Basic Level_Practice）</summary>
 >
 > + Test1001 : *1001 害死人不偿命的(3n+1)猜想（）*
 > + Test1002 : *1002 写出这个数（）*
@@ -35,21 +35,21 @@
 ---
 
 > <details>
->   <summary>1. LeetCode简单级题目（Simple Level_Practice）</summary>
+>   <summary>1. 简单级别题目（Simple Level_Practice）</summary>
 >
 > + null
 >
 > </details>
 
 > <details>
->   <summary>2. LeetCode中等级题目（Medium Level_Practice）</summary>
+>   <summary>2. 中等级别题目（Medium Level_Practice）</summary>
 >
 > + null
 >
 > </details>
 
 > <details>
->   <summary>3. LeetCode困难等级题目（Difficult Level_Practice）</summary>
+>   <summary>3. 困难级别题目（Difficult Level_Practice）</summary>
 >
 > + null
 >
