@@ -1,12 +1,13 @@
 # CodeLife_Algorithm
 
-        Java 算法题记录 —— 记录个人写算法题集
----
+    Java 算法题记录 —— 记录个人写算法题集
+
+***
 
 <details>
 <summary style="font-size: large"><b>一、PAT内算法题（PTA）</b></summary>
 
----
+***
 
 > <details>
 >   <summary>1. PAT基础级题目（PAT_Basic Level_Practice）</summary>
@@ -26,7 +27,7 @@
 
 </details>
 
-***
+---
 
 <details>
 <summary style="font-size: large"><b>一、LeetCode内算法题（LeetCode）</b></summary>
@@ -37,20 +38,23 @@
 >   <summary>1. LeetCode简单级题目（Simple Level_Practice）</summary>
 >
 > + null
+>
 > </details>
 
 > <details>
 >   <summary>2. LeetCode中等级题目（Medium Level_Practice）</summary>
 >
 > + null
+>
 > </details>
 
 > <details>
 >   <summary>3. LeetCode困难等级题目（Difficult Level_Practice）</summary>
 >
 > + null
+>
 > </details>
 
 </details>
 
-***
+---
